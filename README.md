@@ -1,0 +1,1 @@
+Proyecto de grado para la UPTM , se documentará todo el proceso de la creación de un liveUsb con persistencia de datos enfocada a un ambiente de desarrollo para estudiantes de la UPTM, la cual estará basada en Canaima 
