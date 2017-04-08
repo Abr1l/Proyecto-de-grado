@@ -11,6 +11,6 @@ Canaima es una distribución GNU/Linux venezolana basada en Linux Mint Debian Ed
 
 ## Canaima_min liveusb
 
-Canaima_min es un remaster de la versión oficial de [Canaima Chimantá versión 5 estable]([fuente](http://canaima.softwarelibre.gob.ve/descargas/canaima-gnu-linux/repositorio-de-distribuciones/canaima-gnulinux-serie-5x-oficiales))
+Canaima_min es un remaster de la versión oficial de [Canaima Chimantá versión 5 estable]([fuente](http://canaima.softwarelibre.gob.ve/descargas/canaima-gnu-linux/repositorio-de-distribuciones/canaima-gnulinux-serie-5x-oficiales)
 dirigido a usuarios que requieren portabilidad con un ambiente de desarrollo y se pueda correr en cualquier equipo. 
 
